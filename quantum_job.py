@@ -3,7 +3,7 @@ from qiskit import QuantumCircuit
 from qiskit_ibm_runtime import QiskitRuntimeService
 
 # Chargement du token depuis .env
-API_TOKEN = "3682e39d4df13db67b4a0ba5cf8b0f71d7bce61587f4891129212127bbd4563432c9471c7c2fc614206d35d746dd87ae1793af51f77b6a7389f461eab4bcb8ba"
+API_TOKEN = ""
 
 
 # Initialiser le service Qiskit Runtime
